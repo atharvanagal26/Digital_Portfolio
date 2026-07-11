@@ -50,7 +50,7 @@ This is my personal **Digital Portfolio**, built using **HTML5** and **CSS3**. I
 Digital_Portfolio/
 ├── index.html
 ├── style.css
-├── 
+├── 20260207_174800.jpg
 └── README.md
 ```
 
